@@ -209,7 +209,3 @@ Ce volume mobilise des ressources qui pourraient être allouées à des incident
 Projet réalisé en groupe dans le cadre de la formation **Data Analyst — Liora (co-certifiée École des Mines)**, promotion février 2026.
 
 Groupe : Rayan Belharat, **Arnaud Houpert**, Noura Romari, Nicolas Sottero
-
----
-
-*Rapport personnel complet disponible dans le dossier `report/`.*
