@@ -29,8 +29,6 @@ london-fire-brigade-analysis/
 ├── README.md
 ├── notebook/
 │   └── Code_propre_etape5.ipynb         ← notebook Python (preprocessing collectif)
-├── report/
-│   └── Rapport_complet_LFB.pdf          ← rapport personnel complet (30 pages)
 └── screenshots/
     ├── 01_modele_etoile.png
     ├── 02_vue_generale.png
